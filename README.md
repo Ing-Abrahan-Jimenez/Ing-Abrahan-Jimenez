@@ -1,5 +1,10 @@
-## Hi there 👋
-
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/Ing-Abrahan-Jimenez/Ing-Abrahan-Jimenez/blob/main/Abrahan%20Jim%C3%A9nez%20Github.png" width="800"/>
+</div>
+## Hi there I'm Abrahan Jiménez, nice to met you!👋
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abrahan-jim%C3%A9nez/)
+<div id="badges" align="center">
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Ing-Abrahan-Jiménez.Ing-Abrahan-Jiménez&color=00cf00" alt=""/>
 <!--
 **Ing-Abrahan-Jimenez/Ing-Abrahan-Jimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
