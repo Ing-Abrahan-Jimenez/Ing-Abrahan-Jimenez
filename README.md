@@ -12,6 +12,9 @@
     <a href="https://www.linkedin.com/in/abrahan-jim%C3%A9nez/">
       <img decoding="async" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="ing.abrahan.jimenez@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+    </a>
   </div>
   
   
@@ -34,7 +37,15 @@
 <div id="tools" align="left">
   <h2>🛠️ Languages and tools 🛠️</h2>
  <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Phyton?pypiBaseUrl=https%3A%2F%2Fwww.python.org%2F&style=flat-square&logo=python&logoColor=white&logoSize=auto">
-  <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/:packageName?pypiBaseUrl=https%3A%2F%2Fwww.python.org%2F&style=flat-square&logo=python&logoColor=white&logoSize=amg">
-<img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/no?pypiBaseUrl=https%3A%2F%2Fwww.python.org%2F&style=flat-square&logo=python&logoColor=white&logoSize=amg">
-
+</div>
+<hr>
+<div id="github-stats" align="center">
+<h2>🔥 My stats 🔥</h2>
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Ing-Abrahan-Jimenez&theme=dark&background=000000" alt="GitHub Streak" />
+  </a>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ing-Abrahan-Jimenez&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  </a>
 </div>
