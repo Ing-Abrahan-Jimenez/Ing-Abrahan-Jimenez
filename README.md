@@ -36,7 +36,30 @@
 <hr>
 <div id="tools" align="left">
   <h2>🛠️ Languages and tools 🛠️</h2>
- <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Phyton?pypiBaseUrl=https%3A%2F%2Fwww.python.org%2F&style=flat-square&logo=python&logoColor=white&logoSize=auto">
+<!-- Badge para Python -->
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Logo" />
+</a>
+
+<!-- Badge para Excel -->
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel Logo" />
+</a>
+
+<!-- Badge para Jupyter Notebook -->
+<a href="https://jupyter.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Jupyter-DA5B0C?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook Logo" />
+</a>
+
+<!-- Badge para SQL -->
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sql&logoColor=white" alt="SQL Logo" />
+</a>
+<!-- Badge para SAP -->
+<a href="https://www.sap.com/" target="_blank">
+  <img src="https://img.shields.io/badge/SAP-003A6C?style=flat-square&logo=sap&logoColor=white" alt="SAP Logo" />
+</a>
+
 </div>
 <hr>
 <div id="github-stats" align="center">
